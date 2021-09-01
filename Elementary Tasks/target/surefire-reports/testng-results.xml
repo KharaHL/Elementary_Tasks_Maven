@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-01T14:05:59 EEST" name="Command line suite" finished-at="2021-09-01T14:05:59 EEST" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2021-09-01T14:05:59 EEST" name="Command line test" finished-at="2021-09-01T14:05:59 EEST" duration-ms="96">
+      <class name="Fibanacci.ServiceFibanacciTest">
+        <test-method signature="testDoFibanacciLength()[pri:0, instance:Fibanacci.ServiceFibanacciTest@7e0e6aa2]" started-at="2021-09-01T14:05:59 EEST" name="testDoFibanacciLength" finished-at="2021-09-01T14:05:59 EEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDoFibanacciLength -->
+      </class> <!-- Fibanacci.ServiceFibanacciTest -->
+      <class name="Fibanacci.InputValidateTest">
+        <test-method signature="testInputLength()[pri:0, instance:Fibanacci.InputValidateTest@12c8a2c0]" started-at="2021-09-01T14:05:59 EEST" name="testInputLength" finished-at="2021-09-01T14:05:59 EEST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputLength -->
+        <test-method signature="testInputMaxlValue()[pri:0, instance:Fibanacci.InputValidateTest@12c8a2c0]" started-at="2021-09-01T14:05:59 EEST" name="testInputMaxlValue" finished-at="2021-09-01T14:05:59 EEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputMaxlValue -->
+        <test-method signature="testInputMethod()[pri:0, instance:Fibanacci.InputValidateTest@12c8a2c0]" started-at="2021-09-01T14:05:59 EEST" name="testInputMethod" finished-at="2021-09-01T14:05:59 EEST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputMethod -->
+        <test-method signature="testInputMinimalValue()[pri:0, instance:Fibanacci.InputValidateTest@12c8a2c0]" started-at="2021-09-01T14:05:59 EEST" name="testInputMinimalValue" finished-at="2021-09-01T14:05:59 EEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInputMinimalValue -->
+      </class> <!-- Fibanacci.InputValidateTest -->
+      <class name="Fibanacci.FibanacciTest">
+        <test-method signature="testCraeteFibanacci()[pri:0, instance:Fibanacci.FibanacciTest@c81cdd1]" started-at="2021-09-01T14:05:59 EEST" name="testCraeteFibanacci" finished-at="2021-09-01T14:05:59 EEST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCraeteFibanacci -->
+      </class> <!-- Fibanacci.FibanacciTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
